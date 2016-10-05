@@ -22,3 +22,6 @@ Resources of Zürich Mini Maker Faire 2016
 ### AWS S3 for Static Content
 * https://aws.amazon.com/s3/
 * https://console.aws.amazon.com/s3/home?region=eu-west-1#&bucket=s3.diykultur.ch
+
+## License
+This work of [Verein DIY Kultur Zürich](diykultur.ch) is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
