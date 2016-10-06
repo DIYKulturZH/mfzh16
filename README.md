@@ -37,7 +37,7 @@ Resources of Zürich Mini Maker Faire 2016
 * https://www.makerfairezurich.ch/en/call-for-makerz/
 * https://www.makerfairezurich.ch/de/call-for-makers/ (German)
 
-### Google Forms
+### Google Form
 * https://docs.google.com/forms/d/e/1FAIpQLSfX-xFFvnr0yemEQA42aHitMdcvUNp_2iiuNjGRTgysogKPxQ/viewform
 * https://docs.google.com/forms/d/e/1FAIpQLScFhyA3UDl5qTmj3sf4BQKNzNURaQdZ8bXd7xE6Fppv1vloIg/viewform (German)
 
@@ -49,7 +49,11 @@ Resources of Zürich Mini Maker Faire 2016
 * http://www.makerfairezurich.ch/de/infos-fuer-maker/ (German)
 
 ## Call for Helpers
+### Landing Page
 * http://www.makerfairezurich.ch/de/helfer-gesucht/ (German)
+
+### Google Form
+* https://docs.google.com/forms/d/e/1FAIpQLSdl58Txxd-ojkCHE2i3ryRiXFw31kBQ-wZYshk_8MngACqeyA/viewform (German)
 
 ## Newsletter
 * https://mailchimp.com/ (German and English in same newsletter)
