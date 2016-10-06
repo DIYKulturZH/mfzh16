@@ -19,6 +19,9 @@ Resources of Zürich Mini Maker Faire 2016
 ### WordPress Content
 * ...
 
+### Domain Registrar
+* https://www.gandi.net/
+
 ### AWS S3 for Static Content
 * https://aws.amazon.com/s3/
 * https://console.aws.amazon.com/s3/home?region=eu-west-1#&bucket=s3.diykultur.ch
