@@ -78,6 +78,8 @@ Resources of Zürich Mini Maker Faire 2016
 * https://trello.com/ (abandoned)
 
 ### Slack Channels
+* `announcements` - used early on to post meeting dates
+* `contact-details` - each Slack members contact details
 * `design` - to preview / co-design logo, t-shirts, flyers, etc.
 * `finance` - to post receipts if you paid for something
 * `food` - to coordinate the menu
@@ -86,9 +88,10 @@ Resources of Zürich Mini Maker Faire 2016
 * `learnings` - collect lessons learnt during the event
 * `makers` - scouting makers, requests from email
 * `music` - evening program coordination
+* `newsletter` - preview / approve content
 * `pr` - collect press contacts
-* `production` - during the event
-* `projektraum` - indicates presence in production "office"
+* `production` - used during the event to coordinate transports etc.
+* `projektraum` - indicated presence of people in physical production office
 * `public` - shows Twitter, Blog, Google Alert activity using Slack RSS integration
 * `random` - Slack default
 * `sponsorship` - preview of funding documents, updates on replies, etc.
