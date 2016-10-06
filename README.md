@@ -98,7 +98,7 @@ Resources of Zürich Mini Maker Faire 2016
 * `projektraum` - indicated presence of people in physical production office
 * `public` - shows Twitter, Blog, Google Alert activity using Slack RSS integration
 * `random` - Slack default
-* `sponsorship` - preview of funding documents, updates on replies, etc.
+* `sponsorship` - preview of funding applications, updates on replies, etc.
 * `venue` - pictures of venue / rooms, links to layout, map, etc.
 * `website` - request updates / feedback on website content
 * `workshops-and-talks` - coodinate workshops / talks
