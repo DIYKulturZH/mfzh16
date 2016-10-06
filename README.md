@@ -103,6 +103,15 @@ Resources of Zürich Mini Maker Faire 2016
 * `website` - request updates / feedback on website content
 * `workshops-and-talks` - coodinate workshops / talks
 
+### Core Team
+* [Anna Cholinska](http://cholinska.com/)
+* [Barbara Brandmaier](https://www.linkedin.com/in/barbara-brandmaier-091b1847)
+* [David Taddeo](https://www.linkedin.com/in/davidtaddeo)
+* [Elif Raskin](https://twitter.com/aleaf)
+* [Markus Leutwyler](https://twitter.com/twtomcat)
+* [Matthias Hüni](https://twitter.com/mhu3ni)
+* [Thomas Amberg](https://twitter.com/tamberg)
+
 ## Credits
 * Zürich Mini Maker Faire 2016 was organised independently by Verein DIY Kultur Zürich
 * The brand Maker Faire and Zürich Mini Maker Faire was licensed from Maker Media Germany
