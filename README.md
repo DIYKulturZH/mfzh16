@@ -89,8 +89,8 @@ Resources of Zürich Mini Maker Faire 2016
 * `makers` - scouting makers, requests from email
 * `music` - evening program coordination
 * `newsletter` - preview / approve content
-* `pr` - collect press contacts
-* `production` - used during the event to coordinate transports etc.
+* `pr` - collect press contacts, post email requests
+* `production` - used during the event to coordinate transports, etc.
 * `projektraum` - indicated presence of people in physical production office
 * `public` - shows Twitter, Blog, Google Alert activity using Slack RSS integration
 * `random` - Slack default
