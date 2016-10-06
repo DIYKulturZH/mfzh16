@@ -50,7 +50,7 @@ Resources of Zürich Mini Maker Faire 2016
 * http://www.makerfairezurich.ch/de/infos-fuer-maker/ (German)
 
 ## Call for Helpers
-* https://github.com/DIYKulturZH/mfzh16/invitations (German)
+* http://www.makerfairezurich.ch/de/helfer-gesucht/ (German)
 
 ## Newsletter
 * https://mailchimp.com/ (German and English in same newsletter)
