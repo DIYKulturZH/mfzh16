@@ -41,6 +41,9 @@ Resources of Zürich Mini Maker Faire 2016
 * https://docs.google.com/forms/d/e/1FAIpQLSfX-xFFvnr0yemEQA42aHitMdcvUNp_2iiuNjGRTgysogKPxQ/viewform
 * https://docs.google.com/forms/d/e/1FAIpQLScFhyA3UDl5qTmj3sf4BQKNzNURaQdZ8bXd7xE6Fppv1vloIg/viewform (German)
 
+### Terms & Conditions
+* http://s3.diykultur.ch/mfzh16/AGB.pdf (German)
+
 ### Info for Makers
 * http://www.makerfairezurich.ch/en/info-for-makers/
 * http://www.makerfairezurich.ch/de/infos-fuer-maker/ (German)
