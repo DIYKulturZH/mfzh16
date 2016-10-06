@@ -8,7 +8,7 @@ Resources of Zürich Mini Maker Faire 2016
 ## Website
 * https://makerfairezurich.ch/
 
-### Alternative Domains
+### Alternative Spellings
 * http://makerfairezurich.com/
 * http://makerfairezuerich.ch/
 * http://makerfairezuerich.com/
@@ -63,6 +63,7 @@ Resources of Zürich Mini Maker Faire 2016
 
 ## Collaboration
 * https://slack.com/
+* https://docs.google.com/
 * https://sites.google.com/
 * https://trello.com/ (abandoned)
 
