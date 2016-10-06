@@ -1,10 +1,6 @@
 # MFZH16
 Resources of Zürich Mini Maker Faire 2016
 
-## Twitter
-* https://twitter.com/MakerFaireZH
-* https://twitter.com/hashtag/MFZH16?src=hash
-
 ## Website
 * https://makerfairezurich.ch/
 
@@ -60,6 +56,13 @@ Resources of Zürich Mini Maker Faire 2016
 * http://us12.campaign-archive1.com/?u=70de156dc1a2230ca650c0b02&id=f3224cb9ff&e=ae0fe4f063 (No 2)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=e8af6d586e&e=ae0fe4f063 (No 3)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=b8d8904f26&e=ae0fe4f063 (No 4)
+
+## Twitter
+* https://twitter.com/MakerFaireZH
+* https://twitter.com/hashtag/MFZH16?src=hash
+
+## FB
+* https://www.facebook.com/MakerFaireZurich/
 
 ## Collaboration
 * https://slack.com/
