@@ -29,11 +29,11 @@ Resources of Zürich Mini Maker Faire 2016
 * https://www.makerfairezurich.ch/en/call-for-makerz/
 * https://www.makerfairezurich.ch/de/call-for-makers/ (German)
 
-### Google Form
+### Google Forms
 * https://docs.google.com/forms/d/e/1FAIpQLSfX-xFFvnr0yemEQA42aHitMdcvUNp_2iiuNjGRTgysogKPxQ/viewform
 * https://docs.google.com/forms/d/e/1FAIpQLScFhyA3UDl5qTmj3sf4BQKNzNURaQdZ8bXd7xE6Fppv1vloIg/viewform (German)
 
-### Infos for Makers
+### Info for Makers
 * http://www.makerfairezurich.ch/en/info-for-makers/
 * http://www.makerfairezurich.ch/de/infos-fuer-maker/ (German)
 
@@ -41,7 +41,11 @@ Resources of Zürich Mini Maker Faire 2016
 * ...
 
 ## Newsletter
-* https://mailchimp.com/
+* https://mailchimp.com/ (German and English in same newsletter)
+* http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=126baba719&e=ae0fe4f063 (No 1)
+* http://us12.campaign-archive1.com/?u=70de156dc1a2230ca650c0b02&id=f3224cb9ff&e=ae0fe4f063 (No 2)
+* http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=e8af6d586e&e=ae0fe4f063 (No 3)
+* http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=b8d8904f26&e=ae0fe4f063 (No 4)
 
 ## Collaboration
 * https://slack.com/
