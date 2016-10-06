@@ -25,7 +25,7 @@ Resources of Zürich Mini Maker Faire 2016
 * [WP Meta SEO](http://www.joomunited.com/wordpress-products/wp-meta-seo)  v2.2.0
 
 ### WordPress Content
-* ...
+* [makerfairezurich.wordpress.xml](./makerfairezurich.wordpress.xml)
 
 ### AWS S3 for Static Content
 * https://aws.amazon.com/s3/
