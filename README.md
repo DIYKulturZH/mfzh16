@@ -81,7 +81,7 @@ Resources of Zürich Mini Maker Faire 2016
 
 ## Credits
 * Website design and press releases inspired by http://www.makerfairevienna.com/
-* WordPress hosting by [@mhu3ni](https://twitter.com/mhu3ni)
+* WordPress hosting donated by [@mhu3ni](https://twitter.com/mhu3ni)
 
 ## License
 This work of [Verein DIY Kultur Zürich](http://diykultur.ch/) is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
