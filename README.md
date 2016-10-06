@@ -24,12 +24,16 @@ Resources of Zürich Mini Maker Faire 2016
 * https://console.aws.amazon.com/s3/home?region=eu-west-1#&bucket=s3.diykultur.ch
 
 ## Call for Makers
+
+### Landing Page
 * https://www.makerfairezurich.ch/en/call-for-makerz/
-* https://docs.google.com/forms/d/e/1FAIpQLSfX-xFFvnr0yemEQA42aHitMdcvUNp_2iiuNjGRTgysogKPxQ/viewform
 * https://www.makerfairezurich.ch/de/call-for-makers/ (German)
+
+### Google Form
+* https://docs.google.com/forms/d/e/1FAIpQLSfX-xFFvnr0yemEQA42aHitMdcvUNp_2iiuNjGRTgysogKPxQ/viewform
 * https://docs.google.com/forms/d/e/1FAIpQLScFhyA3UDl5qTmj3sf4BQKNzNURaQdZ8bXd7xE6Fppv1vloIg/viewform (German)
 
-## Infos for Makers
+### Infos for Makers
 * http://www.makerfairezurich.ch/en/info-for-makers/
 * http://www.makerfairezurich.ch/de/infos-fuer-maker/ (German)
 
