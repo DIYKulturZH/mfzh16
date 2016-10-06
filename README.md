@@ -9,9 +9,9 @@ Resources of Zürich Mini Maker Faire 2016
 * https://makerfairezurich.ch/
 
 ### Alternative Domains
-* https://makerfairezurich.com/
-* https://makerfairezuerich.ch/
-* https://makerfairezuerich.com/
+* http://makerfairezurich.com/
+* http://makerfairezuerich.ch/
+* http://makerfairezuerich.com/
 
 ### Domain Registrar
 * https://www.gandi.net/
