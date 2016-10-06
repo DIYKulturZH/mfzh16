@@ -82,6 +82,7 @@ Resources of Zürich Mini Maker Faire 2016
 * https://trello.com/ (abandoned)
 
 ### Slack Channels
+* 6.5k messages sent in total, 81% public, 19% DMs
 * `announcements` - used early on to post meeting dates
 * `contact-details` - each Slack members contact details
 * `design` - to preview / co-design logo, t-shirts, flyers, etc.
