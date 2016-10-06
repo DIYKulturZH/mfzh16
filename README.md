@@ -104,6 +104,8 @@ Resources of Zürich Mini Maker Faire 2016
 * `workshops-and-talks` - coodinate workshops / talks
 
 ## Credits
+* Zürich Mini Maker Faire 2016 was organised independently by Verein DIY Kultur Zürich
+* The brand Maker Faire and Zürich Mini Maker Faire was licensed from Maker Media Germany
 * Website design and press releases inspired by http://www.makerfairevienna.com/
 * WordPress hosting donated by [@mhu3ni](https://twitter.com/mhu3ni)
 
