@@ -1,8 +1,20 @@
 # MFZH16
 Resources of Zürich Mini Maker Faire 2016
 
+## Twitter
+* https://twitter.com/MakerFaireZH
+* https://twitter.com/hashtag/MFZH16?src=hash
+
 ## Website
 * https://makerfairezurich.ch/
+
+### Alternative Domains
+* https://makerfairezurich.com/
+* https://makerfairezuerich.ch/
+* https://makerfairezuerich.com/
+
+### Domain Registrar
+* https://www.gandi.net/
 
 ### WordPress
 * [WordPress](https://wordpress.org/) [v4.6.1](https://codex.wordpress.org/Version_4.6.1)
@@ -18,9 +30,6 @@ Resources of Zürich Mini Maker Faire 2016
 
 ### WordPress Content
 * ...
-
-### Domain Registrar
-* https://www.gandi.net/
 
 ### AWS S3 for Static Content
 * https://aws.amazon.com/s3/
@@ -45,6 +54,8 @@ Resources of Zürich Mini Maker Faire 2016
 
 ## Newsletter
 * https://mailchimp.com/ (German and English in same newsletter)
+
+### Newsletter Content
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=126baba719&e=ae0fe4f063 (No 1)
 * http://us12.campaign-archive1.com/?u=70de156dc1a2230ca650c0b02&id=f3224cb9ff&e=ae0fe4f063 (No 2)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=e8af6d586e&e=ae0fe4f063 (No 3)
