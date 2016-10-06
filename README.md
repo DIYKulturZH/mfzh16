@@ -53,8 +53,6 @@ Resources of Zürich Mini Maker Faire 2016
 
 ## Newsletter
 * https://mailchimp.com/ (German and English in same newsletter)
-
-### Newsletter Content
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=126baba719&e=ae0fe4f063 (No 1)
 * http://us12.campaign-archive1.com/?u=70de156dc1a2230ca650c0b02&id=f3224cb9ff&e=ae0fe4f063 (No 2)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=e8af6d586e&e=ae0fe4f063 (No 3)
@@ -78,6 +76,25 @@ Resources of Zürich Mini Maker Faire 2016
 * https://docs.google.com/
 * https://sites.google.com/
 * https://trello.com/ (abandoned)
+
+### Slack Channels
+* `design` - to preview / co-design logo, t-shirts, flyers, etc.
+* `finance` - to post receipts if you paid for something
+* `food` - to coordinate the menu
+* `general` - Slack default
+* `helpers` - to coordinate helpers / volunteers
+* `learnings` - collect lessons learnt during the event
+* `makers` - scouting makers, requests from email
+* `music` - evening program coordination
+* `pr` - collect press contacts
+* `production` - during the event
+* `projektraum` - indicates presence in production "office"
+* `public` - shows Twitter, Blog, Google Alert activity using Slack RSS integration
+* `random` - Slack default
+* `sponsorship` - preview of funding documents, updates on replies, etc.
+* `venue` - pictures of venue / rooms, links to layout, map, etc.
+* `website` - request updates / feedback on website content
+* `workshops-and-talks` - coodinate workshops / talks
 
 ## Credits
 * Website design and press releases inspired by http://www.makerfairevienna.com/
