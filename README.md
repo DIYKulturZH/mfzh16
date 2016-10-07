@@ -55,14 +55,23 @@ Resources of Zürich Mini Maker Faire 2016
 ### Google Form
 * https://docs.google.com/forms/d/e/1FAIpQLSdl58Txxd-ojkCHE2i3ryRiXFw31kBQ-wZYshk_8MngACqeyA/viewform (German)
 
-## Newsletter
+## Social / Media
+
+### FB
+* https://www.facebook.com/MakerFaireZurich/
+
+### Twitter
+* https://twitter.com/MakerFaireZH
+* https://twitter.com/hashtag/MFZH16?src=hash
+
+### Newsletter
 * https://mailchimp.com/ (German and English in same newsletter)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=126baba719&e=ae0fe4f063 (No 1)
 * http://us12.campaign-archive1.com/?u=70de156dc1a2230ca650c0b02&id=f3224cb9ff&e=ae0fe4f063 (No 2)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=e8af6d586e&e=ae0fe4f063 (No 3)
 * http://us12.campaign-archive2.com/?u=70de156dc1a2230ca650c0b02&id=b8d8904f26&e=ae0fe4f063 (No 4)
 
-## Press Releases
+### Press Releases
 * http://www.makerfairezurich.ch/de/presse/ (German)
 * http://s3.diykultur.ch/mfzh16/press/MakerFaireZurich_20160523_de.pdf
 * http://s3.diykultur.ch/mfzh16/press/MakerFaireZurich_20160823_de.pdf
@@ -73,13 +82,6 @@ Resources of Zürich Mini Maker Faire 2016
 * http://s3.diykultur.ch/mfzh16/poster/MakerFaireZurich2016.pdf (Poster)
 * ... (Flyer)
 * ... (Handout)
-
-## Twitter
-* https://twitter.com/MakerFaireZH
-* https://twitter.com/hashtag/MFZH16?src=hash
-
-## FB
-* https://www.facebook.com/MakerFaireZurich/
 
 ## Collaboration
 * https://slack.com/
