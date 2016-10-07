@@ -87,12 +87,12 @@ Resources of Zürich Mini Maker Faire 2016
 * http://s3.diykultur.ch/mfzh16/ad/MakerFaireZurich2016Bildwurf.pdf (German cinema ad)
 
 ## Production
-* ... (Badge)
-* ... (Stamp)
+* [BoothSign.idml](./BoothSign.idml)
+* [LionStamp.dxf](./LionStamp.dxf)
+* [LionStamp.pdf](./LionStamp.pdf)
+* [MakerBadge.idml](./MakerBadge.idml)
+* [SponsorFrame.dxf](./SponsorFrame.dxf)
 * ... (Ticket)
-* ... (Room sign)
-* ... (Booth sign)
-* ... (Sponsor frame)
 
 ## Collaboration
 * https://slack.com/
