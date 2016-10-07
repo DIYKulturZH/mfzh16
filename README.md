@@ -78,7 +78,10 @@ Resources of Zürich Mini Maker Faire 2016
 ## Collaboration
 * https://slack.com/
 * https://docs.google.com/
-* https://sites.google.com/
+  * Docs for co-editing text, exported as PDF
+  * Sheets for maker/press contacts, budget, transport
+  * Slides for sponsoring presentation, floor layout, design reviews
+* https://sites.google.com/ for internal team site, links to docs, resources, etc.
 * https://trello.com/ (abandoned)
 
 ### Slack Channels
