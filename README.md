@@ -88,9 +88,10 @@ Resources of Zürich Mini Maker Faire 2016
 
 ## Production
 * ... (Badge)
+* ... (Stamp)
+* ... (Ticket)
 * ... (Room sign)
 * ... (Booth sign)
-* ... (Ticket template)
 
 ## Collaboration
 * https://slack.com/
