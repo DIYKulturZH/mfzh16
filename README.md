@@ -80,10 +80,11 @@ Resources of Zürich Mini Maker Faire 2016
   * 6.5k messages sent in total, 81% public, 19% DMs
 * https://docs.google.com/
   * Docs for co-editing text, exported as PDF
-  * Sheets for maker/press contacts, budget, transport
+  * Sheets for maker / press contacts, budget, transport
   * Slides for sponsoring presentation, floor layout, design reviews
-* https://sites.google.com/ for internal team site, links to docs, resources, etc.
-* https://trello.com/ (abandoned)
+* https://sites.google.com/
+  * Internal team site, pulling together links to forms, docs, sheets, designs, etc.
+* https://trello.com/ (abandoned, later used a physical board with Todo / Doing / Done + Post-its)
 
 ### Slack Channels
 * `announcements` - used early on to post meeting dates
