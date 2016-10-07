@@ -79,9 +79,8 @@ Resources of Zürich Mini Maker Faire 2016
 
 ## Print
 * http://s3.diykultur.ch/mfzh16/logo/MFZH16_CMYK.eps (Banner)
-* http://s3.diykultur.ch/mfzh16/poster/MakerFaireZurich2016.pdf (Poster)
-* ... (Flyer)
-* ... (Handout)
+* http://s3.diykultur.ch/mfzh16/print/MakerFaireZurich2016Poster.pdf
+* http://s3.diykultur.ch/mfzh16/print/MakerFaireZurich2016Programm.pdf (German)
 
 ## Collaboration
 * https://slack.com/
