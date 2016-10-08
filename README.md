@@ -97,6 +97,7 @@ Resources of Zürich Mini Maker Faire 2016
 * [SponsorFrame.dxf](./SponsorFrame.dxf)
 * [Ticket.acorn](./Ticket.acorn)
   * https://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=H&chl=Gast%2042
+  * https://play.google.com/store/apps/details?id=tw.mobileapp.qrcode.banner
 
 ## Collaboration
 * https://slack.com/
