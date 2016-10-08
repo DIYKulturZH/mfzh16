@@ -55,6 +55,9 @@ Resources of Zürich Mini Maker Faire 2016
 ### Google Form
 * https://docs.google.com/forms/d/e/1FAIpQLSdl58Txxd-ojkCHE2i3ryRiXFw31kBQ-wZYshk_8MngACqeyA/viewform (German)
 
+## Sponsorship Offer
+* http://s3.diykultur.ch/mfzh16/MakerFaireZurichSponsoringPaket.pdf (German)
+
 ## Social Media & PR
 
 ### Twitter
