@@ -95,7 +95,8 @@ Resources of Zürich Mini Maker Faire 2016
 * [LionStamp.pdf](./LionStamp.pdf)
 * [MakerBadge.idml](./MakerBadge.idml)
 * [SponsorFrame.dxf](./SponsorFrame.dxf)
-* ... (Ticket)
+* [Ticket.acorn](./Ticket.acorn)
+  * https://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=H&chl=Gast%2042
 
 ## Collaboration
 * https://slack.com/
